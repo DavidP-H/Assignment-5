@@ -11,7 +11,7 @@ function doCircumference () {
 
   circumference = Math.PI * circumference
 
-  document.getElementById('circAns').innerHTML = circumference
+  document.getElementById('circans').innerHTML = circumference
 }
 
 function doArea () {
@@ -25,5 +25,5 @@ function doArea () {
 
   area = Math.PI * area
 
-  document.getElementById('areaAns').innerHTML = area
+  document.getElementById('areaans').innerHTML = area
 }
